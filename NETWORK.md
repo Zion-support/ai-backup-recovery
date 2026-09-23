@@ -1,16 +1,10 @@
-# 👐 Zion App Network — Interlinks
+# AI Backup Recovery
 
-**ai-backup-recovery** is part of the Zion Tech Group app network (630+ apps).
+Backup and disaster recovery automation.
 
-- 🗂 [Master Index](https://github.com/Zion-support/zion-network/blob/main/APPS_NETWORK.md)
-- 🗂 Category: [Dev & Ops Tools](https://github.com/Zion-support/zion-network/blob/main/network/dev-ops-tools.md)
+## Network
+- 📚 Master catalog: [zion-app-network/CATALOG.md](https://github.com/Zion-support/zion-app-network/blob/main/CATALOG.md)
+- Hubs: [zion-app-network](https://github.com/Zion-support/zion-app-network) · [zion-apps-hub](https://github.com/Zion-support/zion-apps-hub)
+- Related: [rto-rpo-planner](https://github.com/Zion-support/rto-rpo-planner) · [zion-cloud-vault](https://github.com/Zion-support/zion-cloud-vault) · [ai-infrastructure-monitor](https://github.com/Zion-support/ai-infrastructure-monitor) · [zion-ai-incident-responder](https://github.com/Zion-support/zion-ai-incident-responder)
 
-## Related apps
-- [rto-rpo-planner](https://github.com/Zion-support/rto-rpo-planner) — disaster recovery tier designer
-- [zion-cloud-vault](https://github.com/Zion-support/zion-cloud-vault) — secure cloud storage & backup
-- [incident-runbook](https://github.com/Zion-support/incident-runbook) — incident runbook generator
-- [postmortem-generator](https://github.com/Zion-support/postmortem-generator) — blameless postmortems
-- [zion-network](https://github.com/Zion-support/zion-network) — network hub
-
----
-🌐 [Network Index](https://github.com/Zion-support/zion-network/blob/main/APPS_NETWORK.md) · [Status](https://zion-support.github.io/zion-status/) · [Plans](https://zion-support.github.io/zion-plans/) · [Portal](https://zion-support.github.io/zion-portal/)
+*Zion Tech Group · [ziontechgroup.com](https://ziontechgroup.com)*
